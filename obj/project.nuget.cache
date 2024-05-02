@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2GjvYJqhF1exRI7IBkq7F0fYNOz3RIMMiBqrrMm5e8Js/ulf5qMf2YKD9FNhuWN6U6CwaejqJvTHLlMa45EkPg==",
+  "dgSpecHash": "nnZ702O8AyMaMijwpIRRm7FaiQUKJxK9QYVH/o/bLT69g4slieEDFV24jtV402fG4y1nArf4y9wyq4SgL74YFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dolores\\OneDrive\\Área de Trabalho\\DIO\\csharp\\1. entityframework-basics\\entityframework-basics.csproj",
+  "projectFilePath": "C:\\Users\\Dolores\\OneDrive\\Área de Trabalho\\Pedro\\3. DIO\\csharp\\1. entityframework-basics\\entityframework-basics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dolores\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Dolores\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
